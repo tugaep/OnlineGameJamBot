@@ -27,7 +27,7 @@ Contributions are welcome! If you would like to contribute to the ÜNOG Game Jam
 3. Make your changes and commit them: `git commit -m "Add your commit message"`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request
-6. Keep me updated so I can check out your amazing work!
+6. Keep me updated so I can check out your amazing work! My mail adresss is tugaep@gmail.com
 
 ## License
 
